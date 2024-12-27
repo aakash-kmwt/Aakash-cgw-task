@@ -22,3 +22,7 @@ Line Description -> Long text field <br/>
 Quantity -> Number field <br/>
 Unit Price -> Currency field <br/>
 Amount -> Formula Field ( Quantity * UnitPrice) <br/>
+
+
+
+![Day 1 - Phase 1- Aakash-1](https://github.com/user-attachments/assets/6bc70b0f-1772-4fa6-b767-b06043d9de43)
