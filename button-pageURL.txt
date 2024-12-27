@@ -1,0 +1,1 @@
+https://student-b2-dev-ed--c.develop.vf.force.com/apex/CreateInvoice?origin_record=0065g00000RxqzEAAR&account=0015g00000wbTN4AAM&invoice_date=LastActivityDate&invoice_due_date=Due_Date__c&child_relationship_name=OpportunityLineItems&line_item_description=Description&line_item_quantity=Quantity&line_item_unit_price=UnitPrice
