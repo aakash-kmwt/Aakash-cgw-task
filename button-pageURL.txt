@@ -1,1 +1,1 @@
-apex/CreateInvoice?origin_record=kjadsfhjksdahg57894&account=abcdefghtjg12345&invoice_date=10/12/2024&invoice_due_date=11/12/2024&child_relationship_name=child__r&line_item_description=Test line description&line_item_quantity=12&line_item_unit_price=10
+apex/CreateInvoice?origin_record=kjadsfhjksdahg57894&account=abcdefghtjg12345&invoice_date=date__c&invoice_due_date=Due_date__c&child_relationship_name=child__r&line_item_description=Test line description&line_item_quantity=12&line_item_unit_price=10
