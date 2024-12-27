@@ -25,7 +25,8 @@ Amount -> Formula Field ( Quantity * UnitPrice) <br/>
 
 
 
-![Day 1 - Phase 1- Aakash-1](https://github.com/user-attachments/assets/6bc70b0f-1772-4fa6-b767-b06043d9de43)
+![image](https://github.com/user-attachments/assets/1cd6f2d2-3a0b-4ceb-a79f-90f879a2dd34)
+
 
 
 Invoice record page -
