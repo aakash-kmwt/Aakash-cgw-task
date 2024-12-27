@@ -1,0 +1,76 @@
+{
+  "type": "ACCPAY",
+  "TotalTax": null,
+  "Total": null,
+  "SubTotal": null,
+  "Status": null,
+  "Reference": null,
+  "LineItems": [
+    {
+      "UnitAmount": 12,
+      "TaxType": null,
+      "TaxAmount": null,
+      "Quantity": 10,
+      "LineItemID": null,
+      "LineAmount": null,
+      "Description": "test desc",
+      "AccountId": null,
+      "AccountCode": null
+    },
+    {
+      "UnitAmount": 20,
+      "TaxType": null,
+      "TaxAmount": null,
+      "Quantity": 100,
+      "LineItemID": null,
+      "LineAmount": null,
+      "Description": "line 2 test desc",
+      "AccountId": null,
+      "AccountCode": null
+    }
+  ],
+  "LineAmountTypes": null,
+  "InvoiceNumber": null,
+  "InvoiceID": null,
+  "InvoiceDate": "2022-08-15T00:00:00.000Z",
+  "DueDate": "2022-10-11T02:44:27.000Z",
+  "CurrencyRate": null,
+  "CurrencyCode": null,
+  "Contact": {
+    "UpdatedDateUTC": null,
+    "TaxNumber": null,
+    "Phones": [
+      {
+        "PhoneType": "DEFAULT",
+        "PhoneNumber": "1111111",
+        "PhoneCountryCode": "64",
+        "PhoneAreaCode": "04"
+      }
+    ],
+    "Name": null,
+    "LastName": null,
+    "IsSupplier": null,
+    "IsCustomer": null,
+    "FirstName": null,
+    "EmailAddress": null,
+    "DefaultCurrency": null,
+    "ContactStatus": "ACTIVE",
+    "ContactID": "0000000",
+    "CompanyNumber": null,
+    "BankAccountDetails": null,
+    "Addresses": [
+      {
+        "PostalCode": "6011",
+        "City": "Wellington",
+        "AttentionTo": "Andrea",
+        "AddressType": "POBOX",
+        "AddressLine1": "P O Box 123"
+      }
+    ],
+    "AccountsReceivableTaxType": null,
+    "AccountsPayableTaxType": null
+  },
+  "AmountPaid": null,
+  "AmountDue": null,
+  "AmountCredited": null
+}
